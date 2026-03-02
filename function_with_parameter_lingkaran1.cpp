@@ -17,3 +17,8 @@ void output()
 {
     cout << "Luasnya : " << luaslingkaran(r);
 }
+int main()
+{
+    input();
+    output();
+}
